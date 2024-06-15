@@ -1,0 +1,1 @@
+bitnami/kubectl:1.29
