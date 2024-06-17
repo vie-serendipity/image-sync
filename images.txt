@@ -1,3 +1,4 @@
 bitnami/kubectl:1.29
 nginx
 --platform=linux/arm64 bitnami/kubectl:1.29
+--platform=linux/arm64 kindest/node:v1.28.7@sha256:9bc6c451a289cf96ad0bbaf33d416901de6fd632415b076ab05f5fa7e4f65c58
