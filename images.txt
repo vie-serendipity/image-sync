@@ -2,4 +2,4 @@ bitnami/kubectl:1.29
 nginx
 --platform=linux/arm64 bitnami/kubectl:1.29
 --platform=linux/arm64 kindest/node:v1.28.7
---platform=linux/arm64v8 alpine:v3.17
+arm64v8/alpine
