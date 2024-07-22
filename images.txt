@@ -4,3 +4,4 @@ nginx
 --platform=linux/arm64 kindest/node:v1.28.7
 arm64v8/alpine
 pouchcontainer/pouchlinter:v0.1.2
+arm64v8/alpine:3.20.1
