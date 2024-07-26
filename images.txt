@@ -6,3 +6,4 @@ arm64v8/alpine
 pouchcontainer/pouchlinter:v0.1.2
 arm64v8/alpine:3.20.1
 --platform=linux/arm64 kindest/node:v1.29.2
+--platform=linux/amd64 golang:1.22
