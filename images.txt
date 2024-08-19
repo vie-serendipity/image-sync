@@ -10,3 +10,4 @@ arm64v8/alpine:3.20.1
 --platform=linux/amd64 gcr.io/distroless/static:nonroot
 alpine:3.20.2
 kindest/node:v1.27.3
+registry.k8s.io/kube-apiserver:v1.27.11
