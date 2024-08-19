@@ -11,3 +11,5 @@ arm64v8/alpine:3.20.1
 alpine:3.20.2
 kindest/node:v1.27.3
 registry.k8s.io/kube-apiserver:v1.27.11
+registry.k8s.io/etcd:3.5.13-0
+docker.io/alpine:3.19.1
