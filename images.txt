@@ -18,6 +18,6 @@ docker.io/karmada/karmada-agent:v1.10.4
 docker.io/karmada/karmada-webhook:v1.10.4
 docker.io/karmada/karmada-search:v1.10.4
 docker.io/karmada/karmada-descheduler:v1.10.4
-docker.io/karmada/karmada-metrics-adaptor:v1.10.4
+docker.io/karmada/karmada-metrics-adapter:v1.10.4
 docker.io/karmada/karmada-controller-manager:v1.10.4
 docker.io/karmada/karmada-scheduler-estimator:v1.10.4
