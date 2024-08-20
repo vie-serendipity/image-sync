@@ -13,3 +13,11 @@ kindest/node:v1.27.3
 registry.k8s.io/kube-apiserver:v1.27.11
 registry.k8s.io/etcd:3.5.13-0
 docker.io/alpine:3.19.1
+docker.io/karmada/karmada-aggregated-apiserver:v1.10.4
+docker.io/karmada/karmada-agent:v1.10.4
+docker.io/karmada/karmada-webhook:v1.10.4
+docker.io/karmada/karmada-search:v1.10.4
+docker.io/karmada/karmada-descheduler:v1.10.4
+docker.io/karmada/karmada-metrics-adaptor:v1.10.4
+docker.io/karmada/karmada-controller-manager:v1.10.4
+docker.io/karmada/karmada-scheduler-estimator:v1.10.4
