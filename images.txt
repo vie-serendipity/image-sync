@@ -23,3 +23,4 @@ docker.io/karmada/karmada-scheduler:v1.10.4
 docker.io/karmada/karmada-metrics-adapter:v1.10.4
 docker.io/karmada/karmada-controller-manager:v1.10.4
 docker.io/karmada/karmada-scheduler-estimator:v1.10.4
+busybox
