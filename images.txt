@@ -26,3 +26,5 @@ docker.io/karmada/karmada-scheduler-estimator:v1.10.4
 busybox
 gcr.io/kubebuilder/kube-rbac-proxy:v0.15.0
 gcr.io/k8s-staging-lws/lws:main
+llamacpp-llama3-8b-instruct-bartowski-q5km:latest
+llamacpp-worker:latest
