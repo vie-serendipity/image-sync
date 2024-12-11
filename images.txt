@@ -1,15 +1,13 @@
 bitnami/kubectl:1.29
 nginx
 --platform=linux/arm64 bitnami/kubectl:1.29
---platform=linux/arm64 kindest/node:v1.28.7
+--platform=linux/arm64 kindest/node:v1.31.0
 arm64v8/alpine
 pouchcontainer/pouchlinter:v0.1.2
 arm64v8/alpine:3.20.1
---platform=linux/arm64 kindest/node:v1.29.2
 --platform=linux/amd64 golang:1.22
 --platform=linux/amd64 gcr.io/distroless/static:nonroot
 alpine:3.20.2
-kindest/node:v1.27.3
 registry.k8s.io/kube-apiserver:v1.27.11
 registry.k8s.io/etcd:3.5.13-0
 registry.k8s.io/kube-controller-manager:v1.27.11
@@ -26,4 +24,3 @@ docker.io/karmada/karmada-scheduler-estimator:v1.10.4
 busybox
 gcr.io/kubebuilder/kube-rbac-proxy:v0.15.0
 gcr.io/k8s-staging-lws/lws:main
-
