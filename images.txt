@@ -2,6 +2,7 @@ bitnami/kubectl:1.29
 nginx
 --platform=linux/arm64 bitnami/kubectl:1.29
 --platform=linux/arm64 kindest/node:v1.31.0
+registry.k8s.io/hpa-example
 arm64v8/alpine
 pouchcontainer/pouchlinter:v0.1.2
 arm64v8/alpine:3.20.1
