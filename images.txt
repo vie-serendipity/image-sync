@@ -1,5 +1,6 @@
 registry.k8s.io/ubuntu-slim:0.1
 bitnami/kubectl:1.29
+tutum/dnsutils
 nginx
 --platform=linux/arm64 bitnami/kubectl:1.29
 --platform=linux/arm64 kindest/node:v1.31.0
